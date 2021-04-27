@@ -1,5 +1,5 @@
 # Iniciando com Kotlin
-## [School of Net] (https://www.schoolofnet.com)
+## [School of Net](https://www.schoolofnet.com)
 
 * Kotlin
 
